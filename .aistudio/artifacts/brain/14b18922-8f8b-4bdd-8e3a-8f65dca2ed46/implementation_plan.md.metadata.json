@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi lengkap untuk TU Smart Agent – Draft Surat Balasan BLSDM, mencakup arsitektur agentic loop hibrida, aturan bisnis & guardrails kode, skema database SQLite, sistem ekstraksi & deteksi bentrok agenda, generator dokumen Word .docx, antarmuka responsif bernuansa instansi pemerintah, dan checklist pengujian.",
+  "updatedAt": "2026-10-15T14:14:47.663071557Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TU Smart Agent – Draft Surat Balasan BLSDM",
+  "description": "AI Agent Tata Usaha untuk membaca surat masuk, klasifikasi arsip, deteksi bentrok jadwal agenda, dan penyusunan draft surat balasan Word (.docx) resmi BLSDM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
